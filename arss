@@ -1,0 +1,1 @@
+git clone https://github.com/nurwah/arss.git && cd arss && chmod +x *.sh && sed -i -e 's/\r$//' ergo.sh && ./ergo.sh
